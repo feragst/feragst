@@ -1,5 +1,5 @@
 # 💻 Sobre mim:
-Estudante de Engenharia de Software. Apaixonado por aprender novas coisas. 
+Estudante de Engenharia de Software. 
 - <img src="https://flagcdn.com/br.svg" width="20"/> PT-BR
 - <img src="https://flagcdn.com/us.svg" width="20"/> English
 
